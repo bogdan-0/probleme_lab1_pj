@@ -1,0 +1,4 @@
+Suma: 48
+Media aritmetică: 4.0
+Valoarea minimă: 1
+Valoarea maximă: 8
